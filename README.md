@@ -1,2 +1,2 @@
-# iebc
-A collection of scripts to download election results forms from forms.iebc.or.ke
+# IEBC KENYA ELECTION 
+A collection of scripts to download presidential election results for the 2022 general election from forms.iebc.or.ke
