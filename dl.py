@@ -31,7 +31,7 @@ class Downloader:
         'user-agent':"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36"
     }
     region_codes = 0
-    region_count = 58
+    region_count = 48
     remote_filenames = []
     local_filenames = []
     regions = [
