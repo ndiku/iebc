@@ -7,7 +7,7 @@ Currently downloads all forms 34A
 CD into directory
 
 ```
-git clone github.com/ndiku/iebc
+git clone https://github.com/ndiku/iebc/
 cd iebc
 pip install requirements.txt
 python3 dl.py 
