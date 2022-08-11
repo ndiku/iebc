@@ -3,8 +3,7 @@ A collection of scripts to download presidential election results for the 2022 g
 
 Currently downloads all forms 34A
 
-#HOW TO RUN
-CD into directory
+#Running this script
 
 ```
 git clone https://github.com/ndiku/iebc/
