@@ -8,6 +8,6 @@ Currently downloads all forms 34A
 ```
 git clone https://github.com/ndiku/iebc/
 cd iebc
-pip install requirements.txt
+pip install -r requirements.txt
 python3 dl.py 
 ```
